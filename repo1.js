@@ -1,1 +1,1 @@
-console.log('this a sample repo1');
+console.log('this a sample project2');
